@@ -7,7 +7,7 @@ My name is Thales Machado. I currently live in Santa Maria - RS, Brazil and my a
 
 ## Detailed information
 * **Name**: Thales Machado
-* **Age**: 22
+* **Age**: 23
 * **Living in**: Santa Maria - RS, Brazil
 * **Stack**: PHP/Laravel
 * **University**: FADISMA.
