@@ -12,4 +12,4 @@ My name is Thales Machado. I currently live in Santa Maria - RS, Brazil and my a
 * **Stack**: PHP/Laravel
 * **University**: Estácio - Engenharia de Software.
 
-## [Other links](https://thalesmengue.github.io/)
+## [Portfolio](https://thalesmengue.github.io/)
